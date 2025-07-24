@@ -1,7 +1,8 @@
 # 🎨 AI Art Style Detector (Flutter APP)
 
 **AI Art Style Detector** is a minimalist Flutter application that simulates detecting the art style of an uploaded painting. 
-Users can select an image from their device and receive a randomly chosen style like "Impressionism", "Cubism", or "Realism" — all processed offline with a clean UI.
+Users can select an image from their device and receive a randomly chosen style like "Impressionism", 
+"Cubism", or "Realism" — all processed offline with a clean UI.
 
 ---
 
